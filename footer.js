@@ -21,8 +21,7 @@ const element = (
       <div class="row copyright">
         <div class="col-md-4 col-md-offset-4 text-center">
           <p>
-            <small class="block">&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos os direitos reservados. <br >by <a href="https://www.linkedin.com/in/mouraigor/" target="_blank">Igor Moura</a></small> 
+            <small class="block">&copy; Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos os direitos reservados. <br >by <a href="https://www.linkedin.com/in/mouraigor/" target="_blank">Igor Moura</a></small> 
           </p>
         </div>
       </div>
